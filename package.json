@@ -1,0 +1,29 @@
+{
+  "name": "@allbitty/bittyui",
+  "version": "1.0.0",
+  "description": "Blog Dashboard Template [Admin User's]",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allbitty/bittyui.git"
+  },
+  "keywords": [
+    "Template",
+    "web",
+    "admin",
+    "dashboard",
+    "html"
+  ],
+  "author": "bittyTeam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Allbitty/bittyui/issues",
+    "homepage": "https://github.com/Allbitty/bittyui#readme"
+},
+  "publishConfig": {
+    "@Allbitty:registry": "https://npm.pkg.github.com"
+  }
+}
