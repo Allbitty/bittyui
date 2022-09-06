@@ -1,1 +1,3 @@
-# bittyui.github.io
+# BittyUi
+
+Blog template
